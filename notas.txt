@@ -103,3 +103,14 @@ Un cliente es un software que hace peticiones a un servidor para consumir los da
 
 Un servidor, es un software que despacha
 peticiones de un cliente.
+
+
+===========================================================================================================
+Instalar nodemon nivel proyecto: npm i nodemon
+Instalar nodemon nivel global: npm i nodemon -g 
+Instalar dependencias de desarrollo: npm i <paquete> -D
+
+Borrar la carpeta Node_modules: rimraf
+
+
+

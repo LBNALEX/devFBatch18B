@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/LBNALEX/devFBatch18B/issues"
   },
-  "homepage": "https://github.com/LBNALEX/devFBatch18B#readme"
+  "homepage": "https://github.com/LBNALEX/devFBatch18B#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
